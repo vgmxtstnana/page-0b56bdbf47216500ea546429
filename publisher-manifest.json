@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "204d69c0a3387b24ae7140af",
+  "owner": "vgmxtstnana",
+  "repo": "page-0b56bdbf47216500ea546429",
+  "title": "魔戒",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "0b56bdbf47216500ea546429",
+      "a": "魔戒",
+      "b": "",
+      "entity": "魔戒",
+      "brand": "魔戒",
+      "separator": "",
+      "path": "index.html",
+      "hash": "7a581e7c08b09dd93caa6e3c25604f89c6ddf793dc80bd846bf0cef657c33011",
+      "content": {
+        "keyword1": "魔戒",
+        "keyword2": "",
+        "primary_entity": "魔戒",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "探索魔戒VPN，专业网络加速服务，提供稳定高速线路，助力您畅享无忧上网体验。订阅机场客户端，轻松解锁全球内容。",
+          "AI_DESCRIPTION": "探索魔戒VPN，专业网络加速服务，提供稳定高速线路，助力您畅享无忧上网体验。订阅机场客户端，轻松解锁全球内容。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    <style>\n        :root {\n            --primary: #ff6b6b;\n            --secondary: #ff8c69;\n            --bg: #fafafa;\n            --text: #333;\n            --light: #fff;\n        }\n        * { box-sizing: border-box; }\n        body {\n            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n            background: var(--bg);\n            color: var(--text);\n            line-height: 1.7;\n            margin: 0;\n            padding: 0;\n        }\n        nav {\n            background: var(--light);\n            box-shadow: 0 2px 10px rgba(0,0,0,0.1);\n            position: sticky;\n            top: 0;\n            z-index: 100;\n        }\n        .nav-container {\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 1rem 2rem;\n            display: flex;\n            justify-content: space-between;\n            align-items: center;\n        }\n        .logo {\n            font-size: 1.5rem;\n            font-weight: bold;\n            color: var(--primary);\n        }\n        .nav-links {\n            display: flex;\n            gap: 2rem;\n        }\n        .nav-links a {\n            color: var(--text);\n            text-decoration: none;\n            font-weight: 500;\n        }\n        header {\n            background: linear-gradient(135deg, #f8f9fa 0%, #fff 100%);\n            padding: 4rem 0 3rem;\n            text-align: center;\n        }\n        .hero-content {\n            max-width: 800px;\n            margin: 0 auto;\n        }\n        h1 {\n            font-size: 3rem;\n            margin-bottom: 1rem;\n            color: var(--primary);\n        }\n        .subtitle {\n            font-size: 1.5rem;\n            color: #555;\n            margin-bottom: 2rem;\n        }\n        .cta-buttons {\n            display: flex;\n            gap: 1rem;\n            justify-content: center;\n            flex-wrap: wrap;\n        }\n        .btn {\n            padding: 0.8rem 2rem;\n            border-radius: 50px;\n            text-decoration: none;\n            font-weight: 600;\n            transition: all 0.3s;\n            cursor: pointer;\n        }\n        .btn-primary {\n            background: var(--primary);\n            color: white;\n        }\n        .btn-primary:hover {\n            background: #e55a5a;\n            transform: translateY(-2px);\n        }\n        .btn-secondary {\n            background: var(--secondary);\n            color: white;\n        }\n        .btn-secondary:hover {\n            background: #e67a5a;\n        }\n        main {\n            display: block;\n        }\n        section {\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 4rem 2rem;\n        }\n        h2 {\n            font-size: 2.2rem;\n            margin-bottom: 1.5rem;\n            color: var(--primary);\n            position: relative;\n        }\n        h2:after {\n            content: '';\n            position: absolute;\n            width: 60px;\n            height: 4px;\n            background: var(--secondary);\n            bottom: -8px;\n            left: 0;\n        }\n        .steps {\n            display: flex;\n            flex-direction: column;\n            gap: 2rem;\n        }\n        .step {\n            display: flex;\n            gap: 2rem;\n            align-items: flex-start;\n        }\n        .step-number {\n            background: var(--primary);\n            color: white;\n            width: 60px;\n            height: 60px;\n            border-radius: 50%;\n            display: flex;\n            align-items: center;\n            justify-content: center;\n            font-size: 1.5rem;\n            flex-shrink: 0;\n        }\n        .step-content {\n            flex: 1;\n        }\n        .step-content h3 {\n            margin: 0 0 0.5rem;\n            color: #222;\n        }\n        .step-content p {\n            margin: 0;\n            color: #555;\n        }\n        .plans-grid {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));\n            gap: 2rem;\n        }\n        .plan-card {\n            background: white;\n            border-radius: 12px;\n            box-shadow: 0 5px 15px rgba(0,0,0,0.08);\n            padding: 2rem;\n            transition: transform 0.3s;\n        }\n        .plan-card:hover {\n            transform: translateY(-5px);\n        }\n        .plan-card.featured {\n            border: 3px solid var(--primary);\n            position: relative;\n        }\n        .plan-card.featured::after {\n            content: \"推荐\";\n            position: absolute;\n            top: -12px;\n            right: 20px;\n            background: var(--primary);\n            color: white;\n            padding: 0.25rem 1rem;\n            border-radius: 20px;\n            font-size: 0.8rem;\n        }\n        .plan-name {\n            font-size: 1.4rem;\n            font-weight: bold;\n            margin-bottom: 1rem;\n        }\n        .plan-price {\n            font-size: 2rem;\n            font-weight: bold;\n            color: var(--primary);\n            margin-bottom: 1.5rem;\n        }\n        .plan-features {\n            list-style: none;\n            padding: 0;\n            margin: 0 0 1.5rem;\n        }\n        .plan-features li {\n            padding: 0.5rem 0;\n            border-bottom: 1px solid #eee;\n        }\n        .plan-features li:last-child {\n            border-bottom: none;\n        }\n        .faq {\n            max-width: 800px;\n            margin: 0 auto;\n        }\n        details {\n            background: white;\n            margin-bottom: 1rem;\n            border-radius: 8px;\n            box-shadow: 0 2px 8px rgba(0,0,0,0.05);\n            overflow: hidden;\n        }\n        summary {\n            padding: 1.2rem 1.5rem;\n            font-weight: 600;\n            cursor: pointer;\n            list-style: none;\n            position: relative;\n        }\n        summary::-webkit-details-marker {\n            display: none;\n        }\n        summary::before {\n            content: \"Q\";\n            color: var(--primary);\n            margin-right: 0.5rem;\n        }\n        details[open] summary {\n            background: #fff5f5;\n        }\n        .faq-content {\n            padding: 0 1.5rem 1.5rem;\n            display: none;\n        }\n        details[open] .faq-content {\n            display: block;\n        }\n        .faq-content p {\n            color: #555;\n        }\n        footer {\n            background: #f8f9fa;\n            padding: 3rem 0 2rem;\n            text-align: center;\n        }\n        .footer-content {\n            max-width: 1200px;\n            margin: 0 auto;\n        }\n        .footer-text {\n            color: #777;\n            margin-bottom: 2rem;\n        }\n        @media (max-width: 768px) {\n            .step {\n                flex-direction: column;\n                text-align: center;\n            }\n            .step-number {\n                margin: 0 auto 1rem;\n            }\n            h1 {\n                font-size: 2.5rem;\n            }\n            section {\n                padding: 2.5rem 1rem;\n            }\n        }\n    </style>\n\n\n\n<nav>\n    <div class=\"nav-container\">\n        <div class=\"logo\">魔戒</div>\n        <div class=\"nav-links\">\n            <a href=\"#intro\">首页</a>\n            <a href=\"#steps\">配置流程</a>\n            <a href=\"#plans\">套餐</a>\n            <a href=\"#faq\">常见问题</a>\n        </div>\n    </div>\n</nav>\n\n<main>\n<header>\n    <div class=\"hero-content\">\n        <h1>魔戒</h1>\n        <p class=\"subtitle\">网络加速器 | 机场订阅 | 客户端下载</p>\n        <p>专业稳定的网络加速服务，助您畅享高速、隐私保护的互联网体验。无论办公、娱乐还是游戏，都能带来极致顺畅。</p>\n        <div class=\"cta-buttons\">\n            <a href=\"#plans\" class=\"btn btn-primary\">查看套餐</a>\n            <a href=\"#steps\" class=\"btn btn-secondary\">立即配置</a>\n        </div>\n    </div>\n</header>\n\n<section id=\"intro\">\n    <div>\n        <h2>品牌介绍</h2>\n        <p>魔戒VPN致力于打造优质的网络加速解决方案，基于先进的加密技术和全球节点布局，为用户提供安全可靠的高速连接服务。</p>\n        <p>无论您是在家办公、观看直播，还是进行跨境访问，魔戒VPN都能为您提供稳定流畅的网络体验。</p>\n    </div>\n</section>\n\n<section id=\"steps\">\n    <h2>配置流程</h2>\n    <div class=\"steps\">\n        <div class=\"step\">\n            <div class=\"step-number\">1</div>\n            <div class=\"step-content\">\n                <h3>选择套餐订阅</h3>\n                <p>根据您的需求选择适合的套餐，享受每月或年付的灵活订阅方式。支付完成后立即生效。</p>\n            </div>\n        </div>\n        <div class=\"step\">\n            <div class=\"step-number\">2</div>\n            <div class=\"step-content\">\n                <h3>下载并安装客户端</h3>\n                <p>访问我们的平台下载专业客户端，支持多种操作系统，一键安装配置。</p>\n            </div>\n        </div>\n        <div class=\"step\">\n            <div class=\"step-number\">3</div>\n            <div class=\"step-content\">\n                <h3>账号登录与配置</h3>\n                <p>登录您的账号，选择节点进行连接，完成基础设置。</p>\n            </div>\n        </div>\n        <div class=\"step\">\n            <div class=\"step-number\">4</div>\n            <div class=\"step-content\">\n                <h3>享受加速服务</h3>\n                <p>连接成功后，即可获得高速稳定的网络加速体验，支持多种设备同时使用。</p>\n            </div>\n        </div>\n    </div>\n</section>\n\n<section id=\"plans\">\n    {{PLANS_HTML}}\n</section>\n\n<section id=\"faq\">\n    <h2>常见问题</h2>\n    <div class=\"faq\">\n        <details>\n            <summary>什么是魔戒VPN？</summary>\n            <div class=\"faq-content\">\n                <p>魔戒VPN是一款专业的网络加速器，提供稳定高速的全球线路连接，帮助用户解决网络访问速度慢、稳定性差等问题。</p>\n            </div>\n        </details>\n        <details>\n            <summary>魔戒VPN适合哪些使用场景？</summary>\n            <div class=\"faq-content\">\n                <p>魔戒VPN适用于日常上网、在线视频观看、在线办公、跨境购物以及游戏加速等多种场景，为用户带来无缝体验。</p>\n            </div>\n        </details>\n        <details>\n            <summary>如何订阅魔戒VPN？</summary>\n            <div class=\"faq-content\">\n                <p>您可以选择月付或年付套餐，完成支付后即可立即使用。我们提供便捷的支付方式，确保订阅流程简单高效。</p>\n            </div>\n        </details>\n        <details>\n            <summary>魔戒VPN支持哪些设备？</summary>\n            <div class=\"faq-content\">\n                <p>魔戒VPN支持多台设备同时在线使用，包括手机、平板、电脑等多种智能设备。</p>\n            </div>\n        </details>\n        <details>\n            <summary>订阅后如何开始使用？</summary>\n            <div class=\"faq-content\">\n                <p>订阅完成后，您可以下载客户端并按照说明进行安装与配置，选择合适的节点进行连接，即可享受加速服务。</p>\n            </div>\n        </details>\n    </div>\n</section>\n\n<section id=\"clients\">\n    {{CLIENTS_HTML}}\n</section>\n</main>\n\n<footer>\n    <div class=\"footer-content\">\n        <div class=\"footer-text\">\n            <p>© 2024 魔戒VPN 版权所有</p>\n            <p>提供稳定网络加速服务</p>\n        </div>\n    </div>\n</footer>\n\n\n",
+          "hash": "4fc124db1f288ecc2c6e4fb00cdb6763e89137f2c7a07d9c1d0b3dd665566c22",
+          "seo": {
+            "title": "魔戒 VPN - 网络加速器 | 机场订阅与客户端下载",
+            "keywords": "魔戒VPN,魔戒机场,网络加速器,机场订阅,客户端下载",
+            "description": "探索魔戒VPN，专业网络加速服务，提供稳定高速线路，助力您畅享无忧上网体验。订阅机场客户端，轻松解锁全球内容。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "shicdba.cn",
+    "host": "web.shicdba.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "shicdba.cn",
+      "url": "https://shicdba.cn/",
+      "label": "Miru",
+      "apex": "shicdba.cn",
+      "kind": null,
+      "identity": "senbtbdyg/page-5cdad10e63f77c69d8f50b73"
+    },
+    {
+      "host": "999ew.cn",
+      "url": "https://999ew.cn/",
+      "label": "魔戒",
+      "apex": "999ew.cn",
+      "kind": null,
+      "identity": "vxspeg9bv/page-0b84603d0eb599eaf789f1cd"
+    },
+    {
+      "host": "bggdjp.cn",
+      "url": "https://bggdjp.cn/",
+      "label": "魔戒",
+      "apex": "bggdjp.cn",
+      "kind": null,
+      "identity": "pwk8xwvp/page-6c4e6880f26af3a8a6cfcca5"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "c9059551a39174475eabb2930028d3a5f12a8663d66b4757840cb84c71d2de60",
+    "sitemap.xml": "ac470514c40a69bb960ade56423737fe34a2493c6ade412c3522838c869fe038",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "bda1584cc120b23f570b0a1d6b3eddc2773d21a871fce8231eb6f0d7964aa976",
+    "robots.txt": "5cc03e304a6e4420714807d0e6e82626dc58b757f35eaa965fb8036bdbdb4a42",
+    "0cdb5165e5580275ead5fde328c119b8.txt": "2e09cd37dbad3f78a1bd46821d784c596fcb01306d73a8182eb5b054800e0d39"
+  },
+  "revision": "debc8bd28c3b2a28b97b58d09e1d863034fdc0d25c008f9e8fd7db6804fa2098"
+}
